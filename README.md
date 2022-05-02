@@ -5,13 +5,15 @@
 目前支持Debian，Ubuntu，termux的环境
 
 使用指令：
-1.```Bash
+1.
+```Bash
 apt install curl #Ubuntu/Debian
 pacman -Sy curl #Arch
 bash -c "$(curl https://shell.xb6868.com/xbtools.sh)"
 ```
 
-2.```Bash
+2.
+```Bash
 apt install wget #Ubuntu/Debian
 pacman -Sy wget #Arch
 wget https://shell.xb6868.com/xbtools.sh && chmod 777 xbtools.sh
