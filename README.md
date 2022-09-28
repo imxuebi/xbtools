@@ -1,3 +1,11 @@
+#项目已停止更新，请移步至最新项目：https://github.com/myxuebi/xbtooln
+
+
+
+
+
+
+
 # xbtools使用说明
 
 ##xbtools使用方法 官方版
